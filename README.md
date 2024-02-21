@@ -11,6 +11,7 @@ This project focuses on the classification of electroencephalogram (EEG) data to
 4.To contribute to the advancement of diagnostic procedures for epilepsy and other neurological conditions through data-driven insights.
 
 Data Source: https://physionet.org/content/chbmit/1.0.0/
+
 The project uses the CHB-MIT EEG Database, which contains recordings from 24 patients, providing a diverse dataset for analysis. The data, recorded post-withdrawal of anti-seizure medication, spans 916 hours and includes 173 clinically verified seizures.
 
 ## Methodology:
